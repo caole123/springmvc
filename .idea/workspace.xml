@@ -7,71 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c148aef7-ce12-4449-a651-ca339f47e8e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/antlr-2.7.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/aspectjweaver.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/cglib-nodep-2.1_3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/commons-collections-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/commons-io-1.3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/commons-logging-api-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/dom4j-1.6.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/freemarker-2.3.16.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/javassist-3.12.0.GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/javassist-3.7.ga.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/jta-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/log4j-1.2.14.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/ognl-3.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/servlet-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/slf4j-api-1.6.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-aop-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-asm-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-aspects-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-beans-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-context-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-context-support-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-core-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-expression-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-instrument-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-instrument-tomcat-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-jdbc-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-jms-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-orm-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-oxm-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-struts-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-test-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-tx-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-web-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-webmvc-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/spring-webmvc-portlet-3.2.0.M1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/xwork-core-2.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/.idea/artifacts/springmvc_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/springmvc.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/src/controller/IndexController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/src/controller/ProductController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/src/controller/UploadController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/src/interceptor/IndexInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/src/pojo/Product.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/src/pojo/UploadedImageFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/.idea/lib.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/lib/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/page/check.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/page/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/page/showProduct.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/page/showUploadedFile.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/springmvc-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/addProduct.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../springmvc/web/upload.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springmvc/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../springmvc/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../springmvc/src/controller/IndexController.java" afterPath="$PROJECT_DIR$/../springmvc/src/controller/IndexController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../springmvc/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,11 +53,21 @@
       <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../springmvc/src/controller/IndexController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="101">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../springmvc/src/pojo/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -184,7 +131,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1386" />
@@ -477,18 +424,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601114255284</updated>
-      <workItem from="1601114260277" duration="26815000" />
+      <workItem from="1601114260277" duration="27676000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1601545086528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601545086529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26815000" />
+    <option name="totallyTimeSpent" value="27676000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4024961" sideWeight="0.50292826" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2352071" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -504,11 +460,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2562963" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1950078" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25036603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -526,6 +482,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="7" />
@@ -542,14 +502,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../springmvc/.idea/artifacts/springmvc_war_exploded.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springmvc/src/pojo/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -803,10 +755,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../springmvc/src/pojo/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../springmvc/src/controller/IndexController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="101">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
